@@ -33,5 +33,5 @@ Shows you how to split your money between a set of odds in order to profit from 
 
 Disclaimer
 ==========
-* Some companies really do not like users using this kind of software since it eliminates the risk associated with gambling, it may result in your account getting restricted. 
-I am in no way liable for any use/misuse that may arise from the use of this application, use at your own discretion and risk, Enjoy!
+*Some companies really do not like users using this kind of software since it eliminates the risk associated with gambling, it may result in your account getting restricted. 
+I am in no way liable for any use/misuse that may arise from the use of this application, use at your own discretion and risk, Enjoy!*
