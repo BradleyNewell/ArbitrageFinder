@@ -54,10 +54,10 @@ class ArbitrageFinder:
 
         # Show the difference between the starting wager and the potential winnings as a percentage
 
-        x = float(self.wager.get())
-        y = float(self.odds_1.get() * self.bet_1.get())
-        z = y - x / x * 100
-        self.percentage_increase.set(format(z, '.2f') + "%")
+        wager = float(self.wager.get())
+        comb_odds = float(self.odds_1.get() * self.bet_1.get())
+        final_percent = comb_odds - wager / wager * 100
+        self.percentage_increase.set(format(final_percent, '.2f') + "%")
 
     def get_total_return(self):
 
