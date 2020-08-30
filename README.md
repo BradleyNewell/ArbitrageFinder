@@ -5,7 +5,7 @@ Overview:
 =========
 Application to find arbitrage opportunities when betting between two potential outcomes. \
 These situations arise when two or more betting sites display different odds which creates \
-these opportunities to make some money. Since the amount you bet on either outcome will pay out enough to cover the total wager and more. \
+these opportunities to make some money. Since the amount you bet on either outcome will pay out enough to cover the total wager and more. 
 
 Usage Examples
 =============
@@ -29,7 +29,7 @@ Warning: Make sure the Gross Return is greater than the Total Wager, Any number 
 
 Summary
 =======
-Lets you how to split your money between a set of odds in order to profit from the difference. \
+Lets you how to split your money between a set of odds in order to profit from the difference. 
 
 Disclaimer
 ==========
