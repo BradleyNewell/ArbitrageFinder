@@ -14,9 +14,9 @@ Usage Examples
 
 Input
 ======
-**Total Wager** = Total amount you wish to invest/bet\
-**First odds** = Odds of the first bet \
-**Second odds** = Odds of the second bet 
+**Total Wager**: Total amount you wish to invest/bet\
+**First odds**: Odds of the first bet \
+**Second odds**: Odds of the second bet 
 
 Output
 ======
