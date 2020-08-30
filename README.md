@@ -1,7 +1,7 @@
 # ArbitrageFinder
 Arbitrage finder designed for matched betting. 
 
-Overview:
+Overview
 =========
 Application to find arbitrage opportunities when betting between two potential outcomes. \
 These situations arise when two or more betting sites display different odds which creates \
