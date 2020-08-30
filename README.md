@@ -16,20 +16,20 @@ Input
 ======
 Total Wager = The total amount you wish to invest/bet\
 First odds = The odds of the first bet \
-Second odds = The odds of the second bet \
+Second odds = The odds of the second bet 
 
 Output
 ======
 First bet: The amount to be placed on the first set of odds \
 Second bet: The amount to be placed on the second set of odds \
 Percentage Increase: Increase displayed as a percentage \
-Gross Return: How much you'll get out of placing the bets. \
+Gross Return: How much you'll get out of placing the bets. 
 
 Warning: Make sure the Gross Return is greater than the Total Wager, Any number less than this indicates an overall loss.
 
 Summary
 =======
-Will basically tell you how to split your money between a set of odds in order to profit from the difference. \
+Lets you how to split your money between a set of odds in order to profit from the difference. \
 
 Disclaimer
 ==========
