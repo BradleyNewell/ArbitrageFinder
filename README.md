@@ -1,5 +1,5 @@
 # ArbitrageFinder
-Arbitrage finder designed for matched betting. \
+Arbitrage finder designed for matched betting. 
 
 Overview:
 =========
@@ -10,7 +10,7 @@ these opportunities to make some money. Since the amount you bet on either outco
 Usage Examples
 =============
 Tennis betting: There are no draws in tennis. \
-Football: Team to score in half or not. \
+Football: Team to score in half or not. 
 
 Input
 ======
@@ -24,7 +24,7 @@ First bet: The amount to be placed on the first set of odds \
 Second bet: The amount to be placed on the second set of odds \
 Percentage Increase: Increase displayed as a percentage \
 Gross Return: How much you'll get out of placing the bets. \
-\
+
 Warning: Make sure the Gross Return is greater than the Total Wager, Any number less than this indicates an overall loss.
 
 Summary
@@ -33,5 +33,5 @@ Will basically tell you how to split your money between a set of odds in order t
 
 Disclaimer
 ==========
-Some companies really do not like users using this kind of software since it eliminates the risk associated with gambling, it may result in your account getting restricted. \
+Some companies really do not like users using this kind of software since it eliminates the risk associated with gambling, it may result in your account getting restricted. 
 I am in no way liable for any use/misuse that may arise from the use of this application, use at your own discretion and risk, Enjoy!
