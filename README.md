@@ -27,6 +27,10 @@ Output
 
 Warning: Make sure the Gross Return is greater than the Total Wager, Any number less than this indicates an overall loss.
 
+How to run
+==========
+In order to run this script you *must* have Python 3 installed on the machine you intend to run it on.
+
 Summary
 =======
 Shows you how to split your money between a set of odds in order to profit from the difference. 
